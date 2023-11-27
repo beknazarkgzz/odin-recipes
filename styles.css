@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(143, 221, 195);
+}
+
+img {
+    display: block;
+    border-radius: 5%;
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div.list {
+    text-align: center;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+.myUL li {
+    font-size: 18px;
+    color: #000;
+    padding-bottom: 5px;
+}
